@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "kp.m-team.cc",
+        "springsunday.net",
+        "totheglory.im",
+        "nextpt.net",
+        "connects.icu",
+        "localhost.stackoverflow.tech",
+        "ssl.empirehost.me",
+        "routing.bgp.technology",
+        "tracker.m-team.io",
+        "tracker.totheglory.im",
+        "on.springsunday.net",
+        "javdb365.com",
+        "rousi.zip"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".weixinsxy.com",
+        ".springsunday.net",
+        ".wxapp.tc.qq.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "m-team",
+        "tra1",
+        "speedtest",
+        "totheglory",
+        "springsunday",
+        "rousi",
+        "taobao",
+        "tracker"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "129.226.3.47/32",
+        "162.62.163.63/32"
+      ]
+    }
+  ]
+}
