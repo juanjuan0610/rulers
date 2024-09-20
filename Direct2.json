@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "kp.m-team.cc",
+        "open.cd",
+        "zmpt.cc",
+        "qingwapt.com",
+        "icc2022.com",
+        "springsunday.net",
+        "totheglory.im",
+        "dajiao.cyou",
+        "ubits.club",
+        "agsvpt.com",
+        "rousi.zip",
+        "nextpt.net",
+        "connects.icu",
+        "localhost.stackoverflow.tech",
+        "ssl.empirehost.me",
+        "routing.bgp.technology",
+        "tracker.m-team.io",
+        "tracker.m-team.cc",
+        "tra1.m-team.io",
+        "tra1.m-team.cc",
+        "tracker.totheglory.im",
+        "on.springsunday.net",
+        "javdb365.com"
+      ]
+    }
+  ]
+}
