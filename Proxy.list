@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,followme.ceo
 DOMAIN-SUFFIX,whatsmydns.me
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,chaturbate.com
+DOMAIN-SUFFIX,fsm.name
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
